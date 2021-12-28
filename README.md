@@ -11,5 +11,3 @@ python  malicious.py
 [3] Windows		[6] Shell			[9] Exit
 
 Input Number > 
-
-
